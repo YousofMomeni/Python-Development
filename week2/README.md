@@ -1,20 +1,32 @@
 # My python mini projects in week 2
 
-**Assignment 1**
+**p1-Cinema**
 
-A Decision Maker machine that helps us to go or not to go to the cinema.
+-A machine that checks whether or not to go to the cinema using user data.
+**[open code](p1-Cinema.py)**
 
-**َAssignment 2**
+![pic](https://i.postimg.cc/25ng8LR7/p1.png)
 
-In this mini project I made a password guessing game where you have three chances to guess the password.(Without using a loop)
+**َp2-Password**
 
-**َAssignment 3**
+-Password guessing program by the user with a limit of three incorrect attempts.
+**[open code](p2-Password.py)**
 
-In this application I have implemented a small traffic light.
+![pic](https://i.postimg.cc/zBHcyLgf/p2.png)
 
-**َAssignment 4**
 
-A program for managing and dividing students based on the score obtained.
+**َp3-TrafficLight**
 
----
-thanks for your attention.
+-Checking the status of traffic lights using received data.
+**[open code](p3-TrafficLight.py)**
+
+![pic](https://i.postimg.cc/KcDnnPyg/p3.png)
+
+
+**َp4-Score**
+
+-Checking the student's grade status using the received grade.
+**[open code](p4-score.py)**
+
+![pic](https://i.postimg.cc/Qt9jjkkY/p4.png)
+
