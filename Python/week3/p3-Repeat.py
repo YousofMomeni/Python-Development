@@ -11,4 +11,3 @@ for i in range(len(num)):
 
 print('old list: ',num)
 print('new list: ',num2)
-
